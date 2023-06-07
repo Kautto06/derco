@@ -1,0 +1,3 @@
+D:/Universidad/Estructura de datos/proyectoDerco/cmake-build-debug/CMakeFiles/proyectoDerco.dir
+D:/Universidad/Estructura de datos/proyectoDerco/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Universidad/Estructura de datos/proyectoDerco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
