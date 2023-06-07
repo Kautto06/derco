@@ -14,6 +14,13 @@
 #include "marcasConMasVentas.h"
 #include "funcionesBasicasRegiones.h"
 
+/*
+ Integrantes:
+ -Gerardo Benavides Caut 21.061.113-4
+ -Álvaro Serey Gómez 21.564.808-7
+ -Sebastian Beltran Pereira 20.484.602-2
+ */
+
 
 int main(){
     struct SistemaDerco *derco=NULL;
